@@ -13,11 +13,11 @@ Os conteúdos principais  a serem estudados são:
  
 
 ## Layout
-![Tela Inicial](pokedex-react-api/src/assest/pokedex1.png)
-![Tela Inicial](pokedex-react-api/src/assest/pokedex2.png)
-![Pokemon Capturado](pokedex-react-api/src/assest/pokedex3.png)
-![Tela Pokedex](pokedex-react-api/src/assest/pokedex4.png)
-![Tela de Detalhes](pokedex-react-api/src/assest/pokedex6.png)
+![Tela Inicial](src/assest/pokedex1.png)
+![Tela Inicial](src/assest/pokedex2.png)
+![Pokemon Capturado](src/assest/pokedex3.png)
+![Tela Pokedex](src/assest/pokedex4.png)
+![Tela de Detalhes](src/assest/pokedex6.png)
 
 ## Demonstração
 [Link do Projeto](https://pokedex-labenu-easley.surge.sh/ "Link do Porjeto")
@@ -28,5 +28,3 @@ Os conteúdos principais  a serem estudados são:
 3. React Router
 4. Html
 5. Css
-
-
